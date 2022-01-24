@@ -1,3 +1,5 @@
+![Maintenance](https://img.shields.io/maintenance/no/2022?logo=github&logoColor=red) 
+###### Due to the unavailability and permanent shut down of [Canarado Lyrics API](https://rapidapi.com/canarado/api/canarado-lyrics), the maintainence of Tunify Music app is discontinued.
 # Tunify - The Hybrid Music Video Player
 ## A Vue.js lyrics + music video web app.
 ## API Credits
